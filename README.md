@@ -1,6 +1,6 @@
 # Status Badge
 
-[![acholonu](https://circleci.com/gh/acholonu/<PROJECT_NAME>.svg?style=svg)](<LINK>)
+[![acholonu](https://circleci.com/gh/acholonu/udacity_project4_submission.svg?style=svg)](https://app.circleci.com/pipelines/github/acholonu/udacity_project4_submission)
 
 ## Summary
 
